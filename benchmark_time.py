@@ -4,8 +4,7 @@ from qoop.core.ansatz import g2gn
 from qoop.core.state import specific
 from qoop.backend import constant
 import time
-%load_ext autoreload
-%autoreload 2
+
 for num_qubits in range(2, 3):
     num_layers = 1
     state = np.random.uniform(low = 0, high = 2*np.pi, size = 2**num_qubits)
