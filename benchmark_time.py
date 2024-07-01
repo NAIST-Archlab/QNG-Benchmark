@@ -32,5 +32,5 @@ for num_layers in range(2, 10):
         #plot figure
         times.append(time.time() - start)
     print(f'num_layers: {num_layers}')
-    np.savetxt(f'times_{num_qubits}qubit_{num_layers}layer.txt', np.round(np.array(times)/num_steps, 4))
+    np.savetxt(f'./data/times/times_{num_qubits}qubit_{num_layers}layer.txt', np.round(np.array(times)/num_steps, 4))
     print(np.round(np.array(times)/num_steps, 4))
