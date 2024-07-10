@@ -12,7 +12,7 @@ for num_layers in range(1, 10):
     optimizers = ['sgd', 'adam', 'qng_fubini_study', 'qng_qfim', 'qng_adam']
 
     times = []
-    num_steps = 10
+    num_steps = 5
     for optimizer in optimizers:
         start = time.time()
         compiler = QuantumCompilation(
