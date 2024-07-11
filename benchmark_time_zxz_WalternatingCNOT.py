@@ -31,5 +31,5 @@ for num_layers in range(1, 10):
         )
         loss_valuess.append(compiler.metrics['loss_basic'])
         times.append(time.time() - start)
-    np.savetxt(f'./data/times/wonder40/times_{num_qubits}qubit_{num_layers}layer_{zxz_WalternatingCNOT.__name__}.txt', np.round(np.array(times)/num_steps, 4))
+    np.savetxt(f'./data/time/wonder40/times_{num_qubits}qubit_{num_layers}layer_{zxz_WalternatingCNOT.__name__}.txt', np.round(np.array(times)/num_steps, 4))
     print(f'TIME_{num_qubits}qubit_{num_layers}layer_{zxz_WalternatingCNOT.__name__}', np.round(np.array(times)/num_steps, 4))
