@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="939.90833pt"
-   height="304.90567pt"
-   viewBox="0 0 939.90831 304.90567"
+   height="326.70566pt"
+   viewBox="0 0 939.90831 326.70566"
    version="1.1"
    id="svg315"
    sodipodi:docname="loss_basic_1.svg"
@@ -29,15 +29,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showguides="true"
-     inkscape:zoom="0.76802299"
-     inkscape:cx="673.80795"
-     inkscape:cy="53.383818"
+     inkscape:zoom="0.3840115"
+     inkscape:cx="523.42183"
+     inkscape:cy="-346.3438"
      inkscape:window-width="2048"
      inkscape:window-height="1010"
      inkscape:window-x="1913"
      inkscape:window-y="-6"
      inkscape:window-maximized="1"
-     inkscape:current-layer="axes_8">
+     inkscape:current-layer="svg315">
     <sodipodi:guide
        position="792.70923,70.131152"
        orientation="0,-1"
@@ -47,6 +47,11 @@
        position="820.32976,283.49976"
        orientation="0,-1"
        id="guide340"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="725.56423,12.922223"
+       orientation="0,-1"
+       id="guide5"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -67,6 +72,12 @@
   </metadata>
   <defs
      id="defs1">
+    <rect
+       x="919.24335"
+       y="-24.738844"
+       width="46.873596"
+       height="29.94702"
+       id="rect5" />
     <style
        type="text/css"
        id="style1">*{stroke-linejoin: round; stroke-linecap: butt}</style>
@@ -215,6 +226,12 @@
        id="DejaVuSans-29-5"
        d="m 513,4856 h 500 q 468,-737 701,-1444 233,-706 233,-1403 0,-700 -233,-1409 -233,-709 -701,-1444 H 513 q 415,716 620,1424 205,708 205,1429 0,722 -205,1425 -205,704 -620,1422 z"
        transform="scale(0.015625)" />
+    <rect
+       x="919.24335"
+       y="-24.738844"
+       width="46.873596"
+       height="29.94702"
+       id="rect5-3" />
   </defs>
   <g
      id="figure_1">
@@ -3050,7 +3067,7 @@
       </g>
       <g
          id="legend_1"
-         transform="translate(117)">
+         transform="translate(117,28.5)">
         <g
            id="patch_42">
           <path
@@ -3346,6 +3363,22 @@
           </g>
         </g>
       </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.96544161,0,0,0.96544161,-73.35183,300.13467)"
+         id="text1"
+         style="font-size:16px;white-space:pre;shape-inside:url(#rect5);fill:#000000"><tspan
+           x="919.24414"
+           y="-10.140996"
+           id="tspan2">(b)</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.96544161,0,0,0.96544161,-555.47565,299.93282)"
+         id="text1-9"
+         style="font-size:16px;white-space:pre;shape-inside:url(#rect5-3);fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           x="919.24414"
+           y="-10.140996"
+           id="tspan3">(a)</tspan></text>
     </g>
   </g>
   <defs
