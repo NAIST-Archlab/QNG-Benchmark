@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="1054.5pt"
-   height="570.33545pt"
-   viewBox="0 0 1054.5 570.33547"
+   width="1076.1439pt"
+   height="556.83545pt"
+   viewBox="0 0 1076.1439 556.83547"
    version="1.1"
    id="svg970"
    sodipodi:docname="new_mincost_vs_times.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:export-filename="new_mincost_vs_times.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,27 +29,27 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showguides="true"
-     inkscape:zoom="0.59799402"
-     inkscape:cx="742.48234"
-     inkscape:cy="219.06573"
+     inkscape:zoom="0.42284563"
+     inkscape:cx="998.00015"
+     inkscape:cy="513.18965"
      inkscape:window-width="2048"
      inkscape:window-height="1010"
      inkscape:window-x="1913"
      inkscape:window-y="-6"
      inkscape:window-maximized="1"
-     inkscape:current-layer="axes_4">
+     inkscape:current-layer="figure_1">
     <sodipodi:guide
-       position="491.96887,254.99675"
+       position="513.61286,256.16588"
        orientation="1,0"
        id="guide970"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="754.09522,399.22897"
+       position="775.73921,400.3981"
        orientation="1,0"
        id="guide971"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1006.1881,209.8458"
+       position="1027.8321,211.01493"
        orientation="1,0"
        id="guide972"
        inkscape:locked="false" />
@@ -69,13 +72,25 @@
   </metadata>
   <defs
      id="defs1">
+    <rect
+       x="-98.144562"
+       y="263.68961"
+       width="44.933655"
+       height="35.473938"
+       id="rect973" />
+    <rect
+       x="-68.582947"
+       y="146.62561"
+       width="40.203796"
+       height="50.845978"
+       id="rect972" />
     <style
        type="text/css"
        id="style1">*{stroke-linejoin: round; stroke-linecap: butt}</style>
   </defs>
   <g
      id="figure_1"
-     transform="translate(-7.2,-7.2)">
+     transform="translate(14.443978,-20.7)">
     <g
        id="patch_1" />
     <g
@@ -4853,6 +4868,22 @@
              id="use468" />
         </g>
       </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.75,0,0,0.75,133.2,7.2)"
+         id="text972"
+         style="font-size:21.3333px;white-space:pre;shape-inside:url(#rect972);fill:#000000"><tspan
+           x="-68.582031"
+           y="166.08802"
+           id="tspan1">(a)</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.75,0,0,0.75,155.25036,173.92751)"
+         id="text973"
+         style="font-size:21.3333px;white-space:pre;shape-inside:url(#rect973);fill:#000000"><tspan
+           x="-98.144531"
+           y="283.15247"
+           id="tspan2">(b)</tspan></text>
     </g>
     <g
        id="patch_18"

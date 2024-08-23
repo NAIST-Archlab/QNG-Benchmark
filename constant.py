@@ -9,3 +9,4 @@ ansatzs_name = [
     '$|W_{\text{chain}}+ZXZ \rangle $', 
     '$|ZXZ+W_{\text{alternating}}\rangle $',
     '$|ZXZ \rangle $']
+computers = ['wonder40', 'cad113']
