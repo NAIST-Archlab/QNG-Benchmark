@@ -1,6 +1,6 @@
 # Benchmarking Classical and Quantum Optimizers for Quantum Simulator
 
-**Title**: Benchmarking classical and quantum optimizers for quantum simulator (Accepted at CANDAR 2024 regular)
+The very first version has been accepted at CANDAR 2024 regular
 
 **Author**: Vu Tuan Hai, Le Vu Trung Duong, Pham Hoai Luan, Yasuhiko Nakashima.
 
